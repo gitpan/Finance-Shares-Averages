@@ -1,0 +1,36 @@
+Finance/Shares/Averages
+=======================
+
+This module is an extension to a Finance::Shares::Sample object.  It provides
+several methods which add lines to the Sample chart.  These are either moving
+averages or high/low band lines around some other function.  Although it is
+possible to use this package directly, it is intended to be used through
+a Finance::Shares::Model.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Finance::Shares::Sample
+  Finance::Shares::Model
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2002 Christopher P Willmot.  All rights reserved.
+
+This work is published under the Artistic licence accompanying the Perl
+distribution which may be found at http://www.perl.org.  
+
+There is no warranty whatsoever.  Use at your own risk.  Just because it is here
+and is documented does not mean that it is fit for any purpose implied by the
+code or accompanying documentation.  
+

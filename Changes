@@ -1,0 +1,12 @@
+Revision history for Perl extension Finance::Shares::Averages.
+
+
+0.02	Wed Nov 20 12:36:36 GMT 2002
+	All functions available through fn hashes
+	Moving average functions
+	Band generation functions
+
+0.01	Sun Oct 20 15:42:31 2002
+	- original version; created by h2xs 1.21 with options
+		-X -n Finance::Shares::Averages
+

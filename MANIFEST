@@ -1,0 +1,12 @@
+Averages.pm
+Changes
+MANIFEST
+Makefile.PL
+README
+t/LLOY_L.csv
+t/sa01-lines.t
+t/sa02-envelope.t
+t/sa03-bollinger.t
+t/sa04-channel.t
+t/shell.csv
+t/ulvr.csv
